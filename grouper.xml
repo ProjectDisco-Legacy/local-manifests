@@ -1,9 +1,0 @@
-<manifest>
-
-  <!-- Device Trees -->
-  <project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="github" revision="cm-12.1" />
-
-  <!-- Dependencies -->
-  <project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="cm-12.1" />
-
-</manifest>
